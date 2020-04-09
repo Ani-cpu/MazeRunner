@@ -6,7 +6,7 @@ import asset.Maze;
 
 /**
  *
- * @author anirudh
+ * @author zeke
  * @version 1/23/2019
  */
 public class MazeRunner {
